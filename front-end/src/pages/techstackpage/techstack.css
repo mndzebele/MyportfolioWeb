@@ -1,0 +1,25 @@
+.tech{
+   padding-left: 130px;
+   margin-top: 50px;
+}
+.tech hr{
+ color:#138781; 
+ width: 400px; 
+ margin: 10px auto;
+}
+.tech h2{
+    color:#138781;
+}
+.tech .card{
+cursor: pointer;
+}
+.tech .card:hover{
+   background-color: #138781;
+   color: white; 
+   border: none;
+   transition: 1s;
+}
+.tech .tech-icon{
+    font-size: 2rem;
+    margin-right: 10px;
+}

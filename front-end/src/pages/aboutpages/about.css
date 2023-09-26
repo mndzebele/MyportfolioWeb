@@ -1,0 +1,28 @@
+.about{
+    margin:40px 0px;
+    padding: 20px;
+    margin-left: 250px;
+    box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 2.6px ;
+}
+.about-img img {
+ border-radius: 10px;
+width:80%;
+height: 600px;
+margin-left: -80px;
+}
+.about-content {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.about-content h1{
+font-family: cursive;
+color: grey;
+border-bottom:2px solid grey ;
+text-align: center;
+}
+.about-content p{
+text-align: justify;
+padding: 20px;
+}

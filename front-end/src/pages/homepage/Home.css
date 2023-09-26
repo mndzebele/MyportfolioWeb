@@ -1,0 +1,28 @@
+.home-container{
+height: 300px;
+color: white;
+padding-left: 150px;
+}
+.home-content h1{
+    padding:10px;
+    padding-top: 80px;
+}
+.home-content h2{
+  color:red;
+}
+.home-botton{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.home-button .btn-cv{
+    margin-top: 10px;
+    background-color: rgb(12, 70, 231);
+    color: white;
+    width: 150px;
+}
+.home-button .btn-cv:hover{
+        background-color: white;
+        color: rgb(12, 70, 231);;
+        width: 200px;
+       transition: 1s;
+    }
