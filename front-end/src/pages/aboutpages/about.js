@@ -11,7 +11,8 @@ const About = () => {
         <div className='col-md-6 col-sx-6 col-lg-6 col-xs-12 about-content'>
             <h1>About Me</h1>
             <p>
-            I am a reliable, organized and interpersonal individual with excellent team working skills. I have an active approach to work and developing new skills.
+             I am a level 3 Computer Science student enrolling at University Of Eswatini, I am very passionate in sotfware engineering, networking, web development and artificial intelligence. I am a reliable, organized and interpersonal individual with excellent team working skills. Highly versatile,flexible, and self motivated.
+             I am an active member of ICT society. 
             </p>
         </div>
     </div>

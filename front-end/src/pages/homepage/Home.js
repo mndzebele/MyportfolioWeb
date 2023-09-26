@@ -10,7 +10,7 @@ const home = () => {
         <h2>
           <Typewriter
           options={{
-            strings:["Computer Science Student","Level 3","At University of Eswatini"],
+            strings:["Computer Science Student enrolling at University of Eswatini"],
             autoStart: true,
             loop: true,
           }}
